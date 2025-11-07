@@ -1,0 +1,12 @@
+{
+  "name": "vite-rollup-postinstall-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Espen Hovlandsdal",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "vite": "7.2.2"
+  }
+}
